@@ -4,12 +4,12 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
+      "src": "icon/skwebs.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
+  "name": "Satish Kumar Webs",
+  "short_name": "SKWebs",
   "start_url": "./"
 }
